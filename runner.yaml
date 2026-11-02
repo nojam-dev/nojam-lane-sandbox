@@ -1,0 +1,15 @@
+# Test repository for Nojam's real-GitHub CI lane. Touches no cloud: built-in
+# resources only, state in a PostgreSQL database the lane provides.
+version: 1
+targets:
+  - name: dev
+    production: false
+    approval: none
+    backend_config: {schema_name: lane_dev}
+  - name: prod
+    production: false   # lane approvals come from the API, not a browser session
+    after: dev
+    backend_config: {schema_name: lane_prod}
+stacks:
+  - path: .
+    backend: pg
