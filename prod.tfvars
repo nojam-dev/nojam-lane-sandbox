@@ -1,1 +1,1 @@
-policies = ["base", "run-to3dm1"]
+policies = ["base", "run-to3dwm"]
