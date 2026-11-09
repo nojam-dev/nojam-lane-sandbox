@@ -1,1 +1,1 @@
-policies = ["base", "run-to8js2"]
+policies = ["base", "run-to8lnm"]
