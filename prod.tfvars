@@ -1,1 +1,1 @@
-policies = ["base", "run-tofpgn"]
+policies = ["base", "run-tofsf8"]
