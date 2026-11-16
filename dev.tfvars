@@ -1,1 +1,1 @@
-policies = ["base", "run-toljsv"]
+policies = ["base", "run-tolko7"]
