@@ -1,1 +1,1 @@
-policies = ["base", "run-toloco"]
+policies = ["base", "run-tolor0"]
