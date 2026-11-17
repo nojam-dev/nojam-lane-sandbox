@@ -1,1 +1,1 @@
-policies = ["base", "run-tonhua"]
+policies = ["base", "run-tonika"]
