@@ -1,1 +1,1 @@
-policies = ["base", "run-tondum"]
+policies = ["base", "run-tongjq"]
