@@ -1,1 +1,1 @@
-policies = ["base", "run-toydox"]
+policies = ["base", "run-toyeql"]
