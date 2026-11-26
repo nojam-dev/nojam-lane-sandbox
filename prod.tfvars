@@ -1,1 +1,1 @@
-policies = ["base", "run-tp3s4m"]
+policies = ["base", "run-tp3sw7"]
